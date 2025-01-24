@@ -53,6 +53,18 @@ Despues se conecta con el repositorio local al remoto que acabamos de crear.
 ## :white_check_mark: 1.
 1. Empezando la segunda parte del laboratorio escogimos que el owner es Geronimo Martinez y el collaborator es Carlos Barrero
 ## :white_check_mark: 2, 3 y 4.
+
+Aqui podemos la serie de pasos 2, 3 y 4.
+
+![Text](assets/Img4.png)
+
+## :white_check_mark: 5 y 6.
+
+Al editar el archivo **README.md** simultáneamente en la rama principal, se generó un conflicto que requiere que quien resolvió el conflicto decida entre aceptar, descartar o combinar ambos cambios realizados.
+
+![Text](assets/Img5.png)
+
+
 polin
 gero
 hola
