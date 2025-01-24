@@ -58,7 +58,7 @@ Aqui podemos ver la serie de pasos 2, 3 y 4.
 
 ![Text](assets/img4.png)
 
-## :white_check_mark: 5 y 6.
+## :white_check_mark: 5, 6, 7 y 8.
 
 Al editar el archivo **README.md** simultáneamente en la rama principal, se generó un conflicto que requiere que quien resolvió el conflicto decida entre aceptar, descartar o combinar ambos cambios realizados.
 
