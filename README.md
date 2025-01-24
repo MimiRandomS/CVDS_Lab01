@@ -35,6 +35,7 @@ También permite añadir archivos de forma manual, mencionando los nombres espec
 Este comando guarda los cambios en el repositorio, agregando un mensaje descriptivo que explique las modificaciones realizadas.
 
 Para crear un repositorio vacío en GitHub, simplemente haz clic en el botón "Crear repositorio" y completa el formulario correspondiente, como en la imagen lo muestra.
+![Text](assets/Img3.png)
 
 Despues se conecta con el repositorio local al remoto que acabamos de crear.
 ```bash
