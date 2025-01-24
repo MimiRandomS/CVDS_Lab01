@@ -46,7 +46,6 @@ Despues se conecta con el repositorio local al remoto que acabamos de crear.
    git push -u origin main
 ```
 
-
 ---
 
 ### Segunda parte
