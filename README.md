@@ -47,7 +47,6 @@ Despues se conecta con el repositorio local al remoto que acabamos de crear.
 ```
 
 
-
 ---
 
 ### Segunda parte
