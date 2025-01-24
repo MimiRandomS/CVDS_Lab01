@@ -70,6 +70,6 @@ polin
 gero
 hola
 
-### Ejemplo de como se ve el commit al aceptar los cambios, en este caso acepta los dos cambios y los combina
+### Ejemplo de como se ve el commit al aceptar los cambios, en este caso acepta los dos cambios y los combina.
 
 ![Text](assets/img2.png)
