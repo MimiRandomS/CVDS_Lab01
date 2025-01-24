@@ -56,13 +56,13 @@ Despues se conecta con el repositorio local al remoto que acabamos de crear.
 
 Aqui podemos la serie de pasos 2, 3 y 4.
 
-![Text](assets/Img4.png)
+![Text](assets/img4.png)
 
 ## :white_check_mark: 5 y 6.
 
 Al editar el archivo **README.md** simultáneamente en la rama principal, se generó un conflicto que requiere que quien resolvió el conflicto decida entre aceptar, descartar o combinar ambos cambios realizados.
 
-![Text](assets/Img5.png)
+![Text](assets/img5.png)
 
 
 polin
