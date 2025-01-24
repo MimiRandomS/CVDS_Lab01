@@ -64,10 +64,12 @@ Al editar el archivo **README.md** simultáneamente en la rama principal, se gen
 
 ![Text](assets/img5.png)
 
+Estos son algunos cambios al azar que realizamos para ver que sucedia cuando editabamos al tiempo, como ya mencionamos las opciones para resolver el conflicto, en los commit esta separado por colores verde y rojo el cual informan los cambios realizados.
 
 polin
 gero
 hola
 
-### Aceptando cambios
+### Ejemplo de como se ve el commit al aceptar los cambios, en este caso acepta los dos cambios y los combina
+
 ![Text](assets/img2.png)
