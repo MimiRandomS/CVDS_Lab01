@@ -54,7 +54,7 @@ Despues se conecta con el repositorio local al remoto que acabamos de crear.
 1. Empezando la segunda parte del laboratorio escogimos que el owner es Geronimo Martinez y el collaborator es Carlos Barrero
 ## :white_check_mark: 2, 3 y 4.
 
-Aqui podemos la serie de pasos 2, 3 y 4.
+Aqui podemos ver la serie de pasos 2, 3 y 4.
 
 ![Text](assets/img4.png)
 
