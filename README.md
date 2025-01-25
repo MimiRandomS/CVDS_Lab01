@@ -122,14 +122,13 @@ git branch -d nueva-funcionalidad
 
 ![Text](assets/img6.png)
 
-<<<<<<< HEAD
-Editando linea desde rama gero
-=======
 hola mundo
-
 gero
 Altar de kefla
 ![Text](assets/kef.jpg)
-
 hola mundo x2
->>>>>>> 71ab9268a09f52e625e633ed2c1c63b88766f06a
+
+## :white_check_mark: 4 y 5.
+Aca vemos como hicimos el pull request, aceptamos los cambios de cada uno y combinamos cambios.
+![Text](assets/im.jpg)
+![Text](assets/im2.jpg)
