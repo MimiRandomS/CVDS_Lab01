@@ -118,9 +118,18 @@ git push origin nueva-funcionalidad
 ```bash
 git branch -d nueva-funcionalidad
 ```
-
 3. Creen una rama cada uno y suban sus cambios
 
 ![Text](assets/img6.png)
 
+<<<<<<< HEAD
 Editando linea desde rama gero
+=======
+hola mundo
+
+gero
+Altar de kefla
+![Text](assets/kef.jpg)
+
+hola mundo x2
+>>>>>>> 71ab9268a09f52e625e633ed2c1c63b88766f06a
