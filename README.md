@@ -122,14 +122,3 @@ git branch -d nueva-funcionalidad
 3. Creen una rama cada uno y suban sus cambios
 
 ![Text](assets/img6.png)
-
-<<<<<<< HEAD
-
-
-
-
-Probando la rama bransh/carlos para luego hacer la (PR)
-
-=======
-Editando linea 126 - Rama geronimo
->>>>>>> 2e651220100dc719cd89cfdf6e5d82a4f62d686c
