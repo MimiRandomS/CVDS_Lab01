@@ -123,3 +123,4 @@ git branch -d nueva-funcionalidad
 
 ![Text](assets/img6.png)
 
+Editando linea 126 - Rama geronimo
