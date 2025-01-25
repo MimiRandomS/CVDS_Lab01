@@ -93,9 +93,29 @@ Un **Pull Request (PR)** es una función en plataformas de control de versiones 
 
 # ¿Cómo funciona un Pull Request?
 
-## **1. Crear una rama nueva**
+## **1. Crear una rama nueva para cambios.**
 El primer paso es crear una rama donde trabajarás en la nueva funcionalidad o corrección. Esto separa tu trabajo del resto del proyecto principal.
 
 ```bash
 git checkout -b nueva-funcionalidad
+```
+## **2. Haz commits y sube la rama al repositorio remoto.**
+```bash
+git add archivo.txt
+git commit -m "Agregar nueva funcionalidad"
+git push origin nueva-funcionalidad
+```
+## **3. Abre un Pull Request en GitHub.**
+## **4. Colabora con tus compañeros para revisar y mejorar el código.**
+## **5. Fusiona el Pull Request cuando esté listo.**
+1. Haz clic en el botón "Merge Pull Request".
+2. Elige la opción de fusión que prefieras:
+* **Merge commit:** Mantiene todos los commits realizados.
+* **Squash and merge:** Combina todos los commits en uno solo.
+* **Rebase and merge:** Aplica los commits en la rama principal sin un commit de fusión.
+3. Confirma la fusión.
+## **6. (Opcional) Elimina la rama.**
+```bash
+git branch -d nueva-funcionalidad
+```
 
