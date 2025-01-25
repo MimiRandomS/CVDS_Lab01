@@ -124,4 +124,8 @@ git branch -d nueva-funcionalidad
 
 hola mundo
 
+gero
+Altar de kefla
+![Text](assets/kef.jpg)
+
 hola mundo x2
