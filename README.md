@@ -118,12 +118,9 @@ git push origin nueva-funcionalidad
 ```bash
 git branch -d nueva-funcionalidad
 ```
-
-
 3. Creen una rama cada uno y suban sus cambios
 
 ![Text](assets/img6.png)
-
 
 hola mundo
 
